@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
++* B.Tech in Computer Science, Mahindra University, 2018
++* M.S. in Data Science and Applied Mathematics, Ecole Centrale de Lyon, 2020
 
 Work experience
 ======
