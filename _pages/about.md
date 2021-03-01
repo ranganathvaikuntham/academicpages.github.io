@@ -16,7 +16,7 @@ I am a recent Masters graduate from Ecole Centrale de Lyon where I completed my 
 
 On this website you will find some of my blog posts and project work which I update from time to time.
 
-Most recently, from 2018 to 2019, I've worked at Tech Mahindra. This summer I'll be working as a Software Development Intern - Machine learning with  Advanced Innovations. Previously, I've had a chance to study at Mahindra Ecole Centrale and intern at __.
+Most recently, from 2018 to 2019, I've worked at _ . This summer I'll be working as a Software Development Intern - Machine learning with  Advanced Innovations. Previously, I've had a chance to study at Mahindra Ecole Centrale and intern at __.
 
 At my school Centrale Lyon, I have done research at the __ Public Health. I specialized in virtual and augmented reality, including building machine learning models for medical applications and streaming optimizations.I'm also a Graduate Teaching Assistant under Prof __ __ in the School of Computing and Information Sciences.
 
