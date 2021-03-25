@@ -12,7 +12,7 @@ Hello there !
 
 You have landed on the personal page of Ranganath Vaikuntham.
 
-I am a recent Masters graduate from Ecole Centrale de Lyon where I completed my education in Data Science and Applied Mathematics. My graduate program was focused on.
+I am a recent Masters graduate from Ecole Centrale de Lyon where I completed my education in Data Science and Applied Mathematics. My graduate program was focused on the learning the mathematics and programming involved in constructing robust data solutions .
 
 On this website you will find some of my blog posts and project work which I update from time to time.
 
@@ -22,4 +22,4 @@ At my school Centrale Lyon, I have done research at the __ Public Health. I spec
 
 Outside of that, I like sharing code on GitHub, where you'll find both completed projects and works in progress. For example, I've worked on a multidisciplinary team designing a Indoor Positioning System called IPS. You can also find me at my LinkedIn posting updates every so often.
 
-Interested to have a chat? Contact me at ranganathvaikuntham@gmail.com .
+Interested to have a chat? Contact me at vranganath4@yahoo.co.in .
